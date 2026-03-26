@@ -214,12 +214,8 @@ Antes de publicar o usar en operación real, conviene resolver lo siguiente:
 
 ## Roadmap sugerido
 
-- [ ] Reorganizar el proyecto en paquetes reales (`app/models`, `app/services`, `app/utils`)
-- [ ] Crear `requirements.txt`
-- [ ] Agregar `.gitignore`
 - [ ] Separar la UI por módulos
 - [ ] Reemplazar login hardcoded por autenticación real
-- [ ] Agregar pruebas unitarias para la lógica de negocio
 - [ ] Corregir consultas y backrefs inconsistentes
 - [ ] Añadir migraciones de base de datos
 - [ ] Preparar build reproducible para Windows
@@ -241,8 +237,4 @@ secret.key
 
 ## Licencia
 
-Define aquí la licencia que quieras usar, por ejemplo MIT.
-
----
-
-Si vas a subir este proyecto a GitHub, lo recomendable es hacerlo como **desktop business app / internal tool** y no venderlo todavía como release estable hasta corregir la estructura y los bugs detectados.
+MIT.
