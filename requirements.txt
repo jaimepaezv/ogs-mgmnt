@@ -1,0 +1,7 @@
+PySide6
+peewee
+cryptography
+fpdf2
+pandas
+pytest
+pyinstaller
